@@ -75,3 +75,6 @@ heroku ps:scale web=1 worker=1
 ```
 
 See also https://redash.io/help/open-source/admin-guide/how-to-upgrade
+
+
+
